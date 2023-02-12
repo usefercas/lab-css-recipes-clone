@@ -1,0 +1,76 @@
+
+#descripcion-receta {
+    position: relative;
+    height: 100%;
+}
+
+.imagen {
+    position: relative;
+}
+
+.imagen h1 {
+    z-index: 2;
+    position: absolute;
+    top: 30%;
+    left: 0;
+    right: 0;
+    font-size: 100px;
+    width: 100%;
+    height: 26px;
+    padding: 0;
+    margin: 0;
+    margin-top: -13px; 
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+
+
+#foto-pastel-manzana {
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#parrafo-descripcion {
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5%;
+    margin: 0 1%;
+}
+
+.imagen-footer {
+    padding-left: 30%;
+}
+
+.imagen-footer2 {
+    padding-left: 14%;
+}
+
+#ingredientes h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 21%;
+    font-weight: 20;
+}
+
+#ingredientes-lista {
+    padding-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#directions h2 {
+    padding-left: 21%;
+    font-weight: 10;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+#directions-list {
+    padding-left: 24%;
+    padding-right: 24%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
